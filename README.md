@@ -11,5 +11,5 @@ Link to the data set: https://grouplens.org/datasets/movielens/100k/.
 # Installation and Running
 - Clone this repo to your computer.
 - Ensure the data set file is in the same directory with the Assignment3.jpynb file.
-- Open the assignment1.jpynb file in Jupyter Notebook with Ananconda3.
+- Open the Assignment3.jpynb file in Jupyter Notebook with Ananconda3.
 - Select "Restart & Run All".
